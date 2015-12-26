@@ -1,3 +1,4 @@
 module.exports = {
-  complete: true
+  complete: true,
+  other: true
 }
